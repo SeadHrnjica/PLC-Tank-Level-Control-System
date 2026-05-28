@@ -198,7 +198,7 @@ Planned future upgrades:
 
 
 
-!\[HMI](PLC\_HMI/HMI.png)
+!\[HMI](PLC_HMI/HMI.png)
 
 
 
